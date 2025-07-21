@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: yt-api
-    env: python
-    buildCommand: ""
-    startCommand: python server.py
-    plan: free
